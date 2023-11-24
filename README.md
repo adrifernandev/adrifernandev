@@ -1,16 +1,30 @@
-### Hi there 👋
+## 👋 Hello World! I'm Adri Fernandez
+Welcome to my GitHub playground! 🚀 
 
-<!--
-**adrifernandev/adrifernandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me
+I'm Adri Fernandez, an Android Developer soaring through the digital skies. Currently, I'm crafting code and shaping experiences at Vueling Airlines. ✈️ By day, I'm turning caffeine into code; by night, I'm exploring the latest in tech and dreaming up new projects.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Up To
+🔧 Currently working as an Android Developer at Vueling Airlines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Learning and growing every day to stay ahead in the ever-evolving tech landscape.
+
+💡 Exploring new ideas and side projects that spark my curiosity.
+
+
+## 🛠️ Tech Stack
+Android Development 📱
+
+Kotlin & Java 👨‍💻
+
+UI/UX Design 🎨
+
+Git version control 🔄
+
+
+## 🌍 Connect with Me
+Let's chat about code, design, or the latest tech trends! Connect with me on LinkedIn. 🤝
+
+## 📬 Get in Touch
+Have a project in mind or just want to say hi? Feel free to drop me an email at adrifernandevs@gmail.com, I'm always up for a good conversation.
+
