@@ -2,7 +2,7 @@
 Welcome to my GitHub playground! 🚀 
 
 ## 🧑‍💻 About Me
-I'm Adri Fernandez, an Android Developer soaring through the digital skies. Currently, I'm crafting code and shaping experiences at Vueling Airlines. ✈️ By day, I'm turning caffeine into code; by night, I'm exploring the latest in tech and dreaming up new projects.
+I'm Adri Fernandez, an Android Developer. Currently, I'm crafting code and shaping experiences at Vueling Airlines.
 
 ## 🚀 What I'm Up To
 🔧 Currently working as an Android Developer at Vueling Airlines.
