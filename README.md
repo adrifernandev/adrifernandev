@@ -2,25 +2,14 @@
 Welcome to my GitHub playground! 🚀 
 
 ## 🧑‍💻 About Me
-I'm Adri Fernandez, an Android Developer. Currently, I'm crafting code and shaping experiences at Vueling Airlines.
+I'm Adri Fernandez, an Android Developer. Currently, I'm crafting code and shaping experiences at SEAT:CODE.
 
 ## 🚀 What I'm Up To
-🔧 Currently working as an Android Developer at Vueling Airlines.
+🔧 Currently working as an Android Developer at SEAT:CODE.
 
 🌱 Learning and growing every day to stay ahead in the ever-evolving tech landscape.
 
 💡 Exploring new ideas and side projects that spark my curiosity.
-
-
-## 🛠️ Tech Stack
-Android Development 📱
-
-Kotlin & Java 👨‍💻
-
-UI/UX Design 🎨
-
-Git version control 🔄
-
 
 ## 🌍 Connect with Me
 Let's chat about code, design, or the latest tech trends! Connect with me on LinkedIn. 🤝
